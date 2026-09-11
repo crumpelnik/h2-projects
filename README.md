@@ -28,9 +28,8 @@ The workflow supports separate notebook and data directories. A layout consisten
 | Path | Contents |
 |---|---|
 | `README.md` | Workflow, input requirements and output documentation. |
-| `first-submission/Code/` | The master notebook and eight component notebooks listed above, retaining their exact filenames. |
-| `first-submission/Data/` | The annual IEA workbooks, country-indicator workbooks and geographic raster inputs listed below. |
-| `first-submission/` | Generated RDS, PDF, CSV, caption-note and execution-log files. |
+| `Code/` | The master notebook and eight component notebooks listed above, retaining their exact filenames. |
+| `Data/` | The annual IEA workbooks, country-indicator workbooks and geographic raster inputs listed below.
 
 The notebooks can also be kept directly alongside `Data/`. The master uses `notebook_dir` to locate notebooks and `project_dir` to locate `Data/` and write outputs. The data inventory below describes required files; intermediate RDS files and generated figures should be distinguished from source inputs.
 
