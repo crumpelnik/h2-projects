@@ -1,6 +1,6 @@
-# Accelerating Low-Carbon Infrastructure Deployment — Evidence from Green Hydrogen
+# Accelerating Low-Carbon Infrastructure Deployment — Evidence from Hydrogen
 
-This repository contains the R/Jupyter analysis pipeline accompanying the project **“Accelerating Low-Carbon Infrastructure Deployment — Evidence from Green Hydrogen.”** The analysis combines annual International Energy Agency (IEA) Hydrogen Projects database vintages for 2021–2026 with project characteristics, country-level indicators and geographic data to examine hydrogen project progression, failure and revisions to announced completion schedules.
+This repository contains the R/Jupyter analysis pipeline accompanying the project **“Accelerating Low-Carbon Infrastructure Deployment — Evidence from Hydrogen.”** The analysis combines annual International Energy Agency (IEA) Hydrogen Projects database vintages for 2021–2026 with project characteristics, country-level indicators and geographic data to examine hydrogen project progression, failure and revisions to announced completion schedules.
 
 ## Reproducibility workflow
 
